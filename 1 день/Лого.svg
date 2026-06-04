@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 595.28">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_Безымянный_градиент_1962);
+        filter: url(#drop-shadow-13);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st2, .st11, .st18, .st19, .st34, .st35, .st40, .st41, .st52, .st53, .st58, .st63 {
+        stroke-width: 10px;
+      }
+
+      .st1 {
+        fill: url(#_Безымянный_градиент_19611);
+        filter: url(#drop-shadow-58);
+      }
+
+      .st1, .st4, .st5, .st6, .st8, .st9, .st10, .st12, .st13, .st14, .st15, .st16, .st17, .st20, .st21, .st22, .st23, .st24, .st26, .st27, .st28, .st37, .st39, .st42, .st43, .st46, .st47, .st48, .st49, .st50, .st51, .st54, .st61 {
+        stroke-width: 8px;
+      }
+
+      .st2 {
+        filter: url(#drop-shadow-72);
+      }
+
+      .st2, .st3, .st7, .st19, .st30, .st31, .st32, .st33, .st35, .st36, .st38, .st40, .st44, .st45, .st55, .st56, .st57, .st59, .st60, .st62, .st64, .st66 {
+        stroke-linecap: round;
+      }
+
+      .st2, .st8, .st9, .st68, .st11, .st12, .st13, .st15, .st16, .st17, .st18, .st21, .st69, .st25, .st27, .st28, .st29, .st33, .st34, .st35, .st39, .st70, .st40, .st41, .st45, .st47, .st52, .st53, .st71, .st56, .st57, .st72, .st73, .st63, .st64, .st66 {
+        fill: #1d1d1b;
+      }
+
+      .st3 {
+        fill: url(#_Безымянный_градиент_15312);
+        filter: url(#drop-shadow-50);
+      }
+
+      .st3, .st25, .st44, .st45, .st56, .st62, .st64, .st65, .st67 {
+        stroke-width: 3px;
+      }
+
+      .st4 {
+        fill: url(#_Безымянный_градиент_1538);
+        filter: url(#drop-shadow-39);
+      }
+
+      .st5 {
+        fill: url(#_Безымянный_градиент_1531);
+        filter: url(#drop-shadow-16);
+      }
+
+      .st6 {
+        fill: url(#_Безымянный_градиент_1964);
+        filter: url(#drop-shadow-17);
+      }
+
+      .st7 {
+        fill: url(#_Безымянный_градиент_15317);
+        filter: url(#drop-shadow-61);
+      }
+
+      .st7, .st36, .st55 {
+        stroke-width: 2px;
+      }
+
+      .st8 {
+        filter: url(#drop-shadow-34);
+      }
+
+      .st9 {
+        filter: url(#drop-shadow-31);
+      }
+
+      .st68 {
+        filter: url(#drop-shadow-75);
+      }
+
+      .st10 {
+        fill: url(#_Безымянный_градиент_15310);
+        filter: url(#drop-shadow-41);
+      }
+
+      .st11 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .st12 {
+        filter: url(#drop-shadow-57);
+      }
+
+      .st13 {
+        filter: url(#drop-shadow-42);
+      }
+
+      .st14 {
+        fill: url(#_Безымянный_градиент_1539);
+        filter: url(#drop-shadow-40);
+      }
+
+      .st15 {
+        filter: url(#drop-shadow-29);
+      }
+
+      .st16 {
+        filter: url(#drop-shadow-27);
+      }
+
+      .st17 {
+        filter: url(#drop-shadow-30);
+      }
+
+      .st18 {
+        filter: url(#drop-shadow-11);
+      }
+
+      .st19 {
+        fill: url(#_Безымянный_градиент_19614);
+        filter: url(#drop-shadow-71);
+      }
+
+      .st20 {
+        fill: url(#_Безымянный_градиент_1532);
+        filter: url(#drop-shadow-32);
+      }
+
+      .st21 {
+        filter: url(#drop-shadow-23);
+      }
+
+      .st22 {
+        fill: url(#_Безымянный_градиент_1965);
+        filter: url(#drop-shadow-18);
+      }
+
+      .st74 {
+        filter: url(#drop-shadow-52);
+      }
+
+      .st74, .st29 {
+        isolation: isolate;
+      }
+
+      .st23 {
+        fill: url(#_Безымянный_градиент_153);
+        filter: url(#drop-shadow-15);
+      }
+
+      .st24 {
+        fill: url(#_Безымянный_градиент_1967);
+        filter: url(#drop-shadow-20);
+      }
+
+      .st69 {
+        filter: url(#drop-shadow-10);
+      }
+
+      .st25 {
+        filter: url(#drop-shadow-54);
+      }
+
+      .st26 {
+        fill: url(#_Безымянный_градиент_1963);
+        filter: url(#drop-shadow-14);
+      }
+
+      .st27 {
+        filter: url(#drop-shadow-26);
+      }
+
+      .st28 {
+        filter: url(#drop-shadow-24);
+      }
+
+      .st29 {
+        font-family: Nikoleta, Nikoleta;
+        font-size: 101px;
+        stroke-width: .25px;
+      }
+
+      .st30 {
+        fill: url(#_Безымянный_градиент_216);
+        filter: url(#drop-shadow-43);
+      }
+
+      .st31 {
+        fill: url(#_Безымянный_градиент_15316);
+        filter: url(#drop-shadow-60);
+      }
+
+      .st32 {
+        fill: url(#_Безымянный_градиент_15321);
+        filter: url(#drop-shadow-66);
+      }
+
+      .st33 {
+        filter: url(#drop-shadow-46);
+      }
+
+      .st34 {
+        filter: url(#drop-shadow-4);
+      }
+
+      .st35 {
+        filter: url(#drop-shadow-73);
+      }
+
+      .st36 {
+        fill: url(#_Безымянный_градиент_15318);
+        filter: url(#drop-shadow-62);
+      }
+
+      .st37 {
+        fill: url(#_Безымянный_градиент_1537);
+        filter: url(#drop-shadow-38);
+      }
+
+      .st38 {
+        fill: url(#_Безымянный_градиент_15311);
+        filter: url(#drop-shadow-44);
+      }
+
+      .st39 {
+        filter: url(#drop-shadow-28);
+      }
+
+      .st70 {
+        filter: url(#drop-shadow-6);
+      }
+
+      .st40 {
+        filter: url(#drop-shadow-70);
+      }
+
+      .st41 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .st42 {
+        fill: url(#_Безымянный_градиент_1968);
+        filter: url(#drop-shadow-21);
+      }
+
+      .st43 {
+        fill: url(#_Безымянный_градиент_1534);
+        filter: url(#drop-shadow-35);
+      }
+
+      .st44 {
+        fill: url(#_Безымянный_градиент_19610);
+        filter: url(#drop-shadow-49);
+      }
+
+      .st45 {
+        filter: url(#drop-shadow-48);
+      }
+
+      .st46 {
+        fill: url(#_Безымянный_градиент_1533);
+        filter: url(#drop-shadow-33);
+      }
+
+      .st47 {
+        filter: url(#drop-shadow-25);
+      }
+
+      .st48 {
+        fill: url(#_Безымянный_градиент_1966);
+        filter: url(#drop-shadow-19);
+      }
+
+      .st49 {
+        fill: url(#_Безымянный_градиент_1536);
+        filter: url(#drop-shadow-37);
+      }
+
+      .st50 {
+        fill: url(#_Безымянный_градиент_1535);
+        filter: url(#drop-shadow-36);
+      }
+
+      .st51 {
+        fill: url(#_Безымянный_градиент_1969);
+        filter: url(#drop-shadow-22);
+      }
+
+      .st52 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .st53 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .st71 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .st54 {
+        fill: url(#_Безымянный_градиент_19613);
+        filter: url(#drop-shadow-69);
+      }
+
+      .st55 {
+        fill: url(#_Безымянный_градиент_15319);
+        filter: url(#drop-shadow-63);
+      }
+
+      .st56 {
+        filter: url(#drop-shadow-68);
+      }
+
+      .st57 {
+        filter: url(#drop-shadow-45);
+      }
+
+      .st58 {
+        fill: url(#_Безымянный_градиент_1961);
+        filter: url(#drop-shadow-12);
+      }
+
+      .st59 {
+        fill: url(#_Безымянный_градиент_15322);
+        filter: url(#drop-shadow-67);
+      }
+
+      .st75 {
+        fill: url(#_Безымянный_градиент_196);
+        filter: url(#drop-shadow-8);
+      }
+
+      .st72 {
+        filter: url(#drop-shadow-74);
+      }
+
+      .st73 {
+        filter: url(#drop-shadow-53);
+      }
+
+      .st60 {
+        fill: url(#_Безымянный_градиент_15320);
+        filter: url(#drop-shadow-65);
+      }
+
+      .st61 {
+        fill: url(#_Безымянный_градиент_19612);
+        filter: url(#drop-shadow-59);
+      }
+
+      .st62 {
+        fill: url(#_Безымянный_градиент_15313);
+        filter: url(#drop-shadow-51);
+      }
+
+      .st63 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .st64 {
+        filter: url(#drop-shadow-47);
+      }
+
+      .st65 {
+        fill: url(#_Безымянный_градиент_15314);
+        filter: url(#drop-shadow-55);
+      }
+
+      .st66 {
+        filter: url(#drop-shadow-64);
+      }
+
+      .st67 {
+        fill: url(#_Безымянный_градиент_15315);
+        filter: url(#drop-shadow-56);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="310" y="169.28" width="41" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="316" y="169.28" width="74" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur1" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur1" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" x="316" y="271.28" width="73" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur2" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" x="354" y="285.28" width="63" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur3" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" x="354" y="285.28" width="41" height="37" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur4" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" x="351" y="284.28" width="45" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur5" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" x="386" y="236.28" width="41" height="123" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur6" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_196" data-name="Безымянный градиент 196" x1="394.26" y1="337.09" x2="401.65" y2="337.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0200ff"/>
+      <stop offset="1" stop-color="#0200ff"/>
+    </linearGradient>
+    <filter id="drop-shadow-8" x="386" y="324.28" width="38" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur7" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" x="464" y="169.28" width="41" height="140" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur8" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-10" x="463" y="272.28" width="42" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur9" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-11" x="434" y="272.28" width="64" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur10" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1961" data-name="Безымянный градиент 196" x1="411.72" y1="304.14" x2="443.55" y2="304.14" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-12" x="400" y="280.28" width="69" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur11" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1962" data-name="Безымянный градиент 196" x1="443.6" y1="293.88" x2="448.22" y2="293.88" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-13" x="431" y="278.28" width="48" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur12" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1963" data-name="Безымянный градиент 196" x1="441.78" y1="294.18" x2="446.16" y2="294.18" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-14" x="423" y="280.28" width="51" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur13" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_153" data-name="Безымянный градиент 153" x1="481.02" y1="202.14" x2="501.42" y2="202.14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#0200ff"/>
+    </linearGradient>
+    <filter id="drop-shadow-15" x="472" y="189.28" width="52" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur14" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1531" data-name="Безымянный градиент 153" x1="501.42" y1="201.54" y2="201.54" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-16" x="501.42" y="197.54" width="7" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur15" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1964" data-name="Безымянный градиент 196" x1="497.81" y1="256.45" x2="498.34" y2="256.45" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-17" x="485" y="194.28" width="40" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur16" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1965" data-name="Безымянный градиент 196" x1="446.16" y1="307.74" x2="497.81" y2="307.74" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-18" x="437" y="291.28" width="84" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur17" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1966" data-name="Безымянный градиент 196" x1="401.75" y1="321.11" x2="448.22" y2="321.11" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-19" x="392" y="298.28" width="80" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur18" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1967" data-name="Безымянный градиент 196" x1="496.71" y1="257.41" x2="498.67" y2="257.41" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-20" x="484" y="200.28" width="41" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur19" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1968" data-name="Безымянный градиент 196" x1="433.59" y1="311.65" x2="500.41" y2="311.65" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-21" x="424" y="294.28" width="99" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur20" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1969" data-name="Безымянный градиент 196" x1="406.01" y1="321.25" x2="414.09" y2="321.25" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-22" x="394" y="304.28" width="46" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur21" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-23" x="391" y="301.28" width="53" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur22" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-24" x="290" y="189.28" width="50" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur23" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-25" x="290" y="195.28" width="40" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur24" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-26" x="299" y="293.28" width="70" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur25" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-27" x="336" y="298.28" width="60" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur26" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-28" x="362" y="308.28" width="58" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur27" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-29" x="298" y="293.28" width="40" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur28" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-30" x="334" y="298.28" width="39" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur29" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-31" x="336" y="299.28" width="93" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur30" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1532" data-name="Безымянный градиент 153" x1="386.15" y1="172.9" x2="441.78" y2="172.9" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-32" x="376" y="144.28" width="90" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur31" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1533" data-name="Безымянный градиент 153" x1="350.68" y1="225.08" x2="386.15" y2="225.08" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-33" x="339" y="182.28" width="73" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur32" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-34" x="402" y="151.28" width="68" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur33" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1534" data-name="Безымянный градиент 153" x1="354.22" y1="238.55" x2="411.72" y2="238.55" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-35" x="344" y="208.28" width="92" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur34" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1535" data-name="Безымянный градиент 153" x1="409.53" y1="216.83" x2="415.72" y2="216.83" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-36" x="398" y="202.28" width="43" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur35" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1536" data-name="Безымянный градиент 153" x1="386.15" y1="191.06" x2="389.13" y2="191.06" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-37" x="375" y="178.28" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur36" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1537" data-name="Безымянный градиент 153" x1="386.17" y1="192.58" x2="387.69" y2="192.58" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-38" x="374" y="180.28" width="39" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur37" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1538" data-name="Безымянный градиент 153" x1="395.29" y1="204.98" x2="404.95" y2="204.98" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-39" x="383" y="187.28" width="48" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur38" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur38" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_1539" data-name="Безымянный градиент 153" x1="406.02" y1="213.28" x2="414.09" y2="213.28" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-40" x="395" y="198.28" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur39" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur39" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15310" data-name="Безымянный градиент 153" x1="387.69" y1="196.44" x2="396.76" y2="196.44" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-41" x="377" y="181.28" width="45" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur40" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur40" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-42" x="419" y="145.28" width="51" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur41" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur41" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_216" data-name="Безымянный градиент 216" x1="402.28" y1="153.88" x2="490.44" y2="153.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#0200ff"/>
+    </linearGradient>
+    <filter id="drop-shadow-43" x="393" y="100.28" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur42" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur42" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15311" data-name="Безымянный градиент 153" x1="339.56" y1="255.86" x2="368.81" y2="255.86" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-44" x="330" y="231.28" width="62" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur43" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur43" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-45" x="296" y="193.28" width="45" height="32" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur44" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur44" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-46" x="305" y="193.28" width="38" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur45" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur45" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-47" x="296" y="188.28" width="47" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur46" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur46" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-48" x="289" y="188.28" width="44" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur47" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur47" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_19610" data-name="Безымянный градиент 196" x1="477.73" y1="309.2" x2="493.89" y2="309.2" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-49" x="468" y="298.28" width="50" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur48" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur48" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15312" data-name="Безымянный градиент 153" x1="411.96" y1="219.02" x2="416.62" y2="219.02" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-50" x="402" y="206.28" width="39" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur49" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur49" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15313" data-name="Безымянный градиент 153" x1="389.43" y1="190.38" x2="394.14" y2="190.38" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-51" x="380" y="175.28" width="38" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur50" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur50" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-52" x="239" y="336.28" width="356" height="161" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur51" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur51" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-53" x="294" y="299.28" width="51" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur52" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur52" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-54" x="297" y="298.28" width="67" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur53" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur53" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15314" data-name="Безымянный градиент 153" x1="494.9" y1="207.14" x2="495.81" y2="207.14" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-55" x="485" y="194.28" width="35" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur54" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur54" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15315" data-name="Безымянный градиент 153" x1="362.34" y1="245.09" x2="366.65" y2="245.09" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-56" x="353" y="234.28" width="38" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur55" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur55" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-57" x="375" y="307.28" width="51" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur56" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur56" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_19611" data-name="Безымянный градиент 196" x1="390.79" y1="333.24" x2="400.03" y2="333.24" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-58" x="381" y="318.28" width="42" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur57" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur57" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_19612" data-name="Безымянный градиент 196" x1="397.83" y1="332.79" x2="410.12" y2="332.79" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-59" x="387" y="316.28" width="48" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur58" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur58" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15316" data-name="Безымянный градиент 153" x1="470.68" y1="186.43" x2="478.11" y2="186.43" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-60" x="462" y="176.28" width="39" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur59" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur59" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15317" data-name="Безымянный градиент 153" x1="471.07" y1="184.81" x2="476.84" y2="184.81" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-61" x="462" y="172.28" width="38" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur60" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur60" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15318" data-name="Безымянный градиент 153" x1="471.95" y1="187.52" x2="472.22" y2="187.52" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-62" x="462" y="177.28" width="34" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur61" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur61" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15319" data-name="Безымянный градиент 153" x1="470.7" y1="185.73" x2="473.58" y2="185.73" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-63" x="461" y="173.28" width="36" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur62" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur62" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-64" x="389" y="230.28" width="39" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur63" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur63" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15320" data-name="Безымянный градиент 153" x1="401.51" y1="253.5" x2="403.89" y2="253.5" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-65" x="392" y="238.28" width="35" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur64" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur64" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15321" data-name="Безымянный градиент 153" x1="398.86" y1="244.94" x2="401.88" y2="244.94" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-66" x="389" y="234.28" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur65" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur65" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_15322" data-name="Безымянный градиент 153" x1="403.47" y1="263.61" x2="403.57" y2="263.61" xlink:href="#_Безымянный_градиент_153"/>
+    <filter id="drop-shadow-67" x="394" y="239.28" width="33" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur66" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur66" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-68" x="393" y="238.28" width="34" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur67" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur67" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_19613" data-name="Безымянный градиент 196" x1="405.65" y1="306.32" x2="448.22" y2="306.32" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-69" x="395" y="280.28" width="76" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur68" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur68" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-70" x="385" y="279.28" width="86" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur69" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur69" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_Безымянный_градиент_19614" data-name="Безымянный градиент 196" x1="438.44" y1="291.85" x2="472.4" y2="291.85" xlink:href="#_Безымянный_градиент_196"/>
+    <filter id="drop-shadow-71" x="425" y="273.28" width="75" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur70" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur70" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-72" x="342" y="281.28" width="89" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur71" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur71" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-73" x="313" y="270.28" width="83" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur72" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur72" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-74" x="416" y="176.28" width="41" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur73" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur73" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-75" x="409" y="175.28" width="51" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur74" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur74" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <line class="st63" x1="323.03" y1="178.15" x2="323.03" y2="290.32"/>
+  <line class="st11" x1="326.15" y1="182.32" x2="365.84" y2="197.81"/>
+  <line class="st41" x1="326.15" y1="284.06" x2="364.85" y2="298.62"/>
+  <line class="st34" x1="365.84" y1="297.64" x2="390.85" y2="319.02"/>
+  <path class="st71" d="M365.29,299.09c.61-.07,1.23-.06,1.84.02l-.66-.09c.64.09,1.26.26,1.85.51l-.6-.25c.35.15.68.32,1,.52.55.33,1.31.42,1.93.25.58-.16,1.21-.61,1.49-1.15.31-.58.46-1.28.25-1.93s-.58-1.14-1.15-1.49c-.87-.53-1.86-.95-2.86-1.17s-2.07-.33-3.1-.21c-.34-.01-.67.06-.96.22-.31.1-.58.27-.8.52-.43.43-.76,1.15-.73,1.77s.24,1.32.73,1.77c.46.42,1.12.81,1.77.73h0v-.02Z"/>
+  <path class="st70" d="M362.91,299.8c.32-.1.64-.17.97-.22l-.66.09c.55-.07,1.09-.07,1.64,0l-.66-.09c.62.08,1.22.25,1.8.48l-.6-.25c.37.16.73.34,1.08.56.21.13.78.64.12.06.15.13.31.26.46.4s.29.28.42.43c.04.05.22.2.21.25,0-.03-.41-.57-.16-.2.23.35.44.71.61,1.1l-.25-.6c.09.2.16.41.23.62l.64-2.43c-.27.29.54-.34.21-.16l.6-.25c-.09.04-.17.06-.26.08l.66-.09c-.1,0-.18.01-.28,0l.66.09c-.13-.02-.26-.05-.38-.09l.6.25c-.1-.04-.18-.09-.28-.14-.15-.1-.12-.07.08.08.19.16.23.18.09.06-.28-.27.3.55.13.19-.05-.11-.11-.22-.16-.34l.25.6c-.26-.7-.27-1.44-.45-2.15-.22-.87-.64-1.64-1.18-2.34-1.18-1.53-2.9-2.36-4.81-2.52-.61-.05-1.35.32-1.77.73s-.76,1.15-.73,1.77c.07,1.45,1.1,2.38,2.5,2.5.08,0,.16.01.24.02l-.66-.09c.35.05.69.15,1.02.29l-.6-.25c.22.1.43.21.62.34s.34.36-.13-.11c.08.08.18.16.26.24.06.06.23.19.24.26l-.24-.32c.05.06.09.13.14.19.13.2.24.41.34.63l-.25-.6c.24.58.3,1.19.4,1.81.16.94.54,1.86,1.2,2.57,1.41,1.5,3.96,1.88,5.47.29.6-.64.91-1.57.64-2.43-1.42-4.61-6.68-7.56-11.35-6.12-1.25.38-2.17,1.76-1.75,3.08s1.74,2.16,3.08,1.75h0v-.02Z"/>
+  <line class="st53" x1="399.14" y1="244.93" x2="399.14" y2="337.28"/>
+  <path class="st75" d="M394.41,335.03c-.09.44-.16.89-.15,1.34,0,.12.01.23.02.35.04.33.07.66.14.99.09.42.27.82.44,1.2.17.37.42.67.68.99.05.06.11.12.17.17.18.16.38.32.58.45.03.02.07.04.1.06.23.12.51.26.78.31.6.12.93.13,1.53,0,.96-.21,1.78-.98,2.25-1.81.16-.29.28-.6.4-.91.05-.14.1-.27.13-.42.11-.5.19-1.03.16-1.54.01-.34-.06-.67-.22-.96-.1-.31-.27-.58-.52-.8-.23-.24-.49-.42-.8-.52-.3-.16-.62-.23-.96-.22-.65.03-1.32.24-1.77.73s-.77,1.1-.73,1.77c.01.2,0,.41-.03.61l.09-.66c-.04.26-.11.52-.21.76l.25-.6c-.07.17-.16.33-.27.47l.39-.51c-.08.1-.16.19-.26.27l.51-.39c-.06.05-.13.09-.21.12l.6-.25s-.11.04-.16.05l.66-.09h-.16l.66.09c-.06,0-.12-.02-.18-.05l.6.25c-.07-.03-.13-.07-.18-.11l.51.39c-.09-.07-.16-.15-.23-.23l.39.51c-.11-.15-.2-.31-.27-.48l.25.6c-.11-.27-.18-.55-.22-.84l.09.66c-.04-.29-.04-.58,0-.87l-.09.66c0-.07.02-.13.03-.2.1-.33.12-.66.04-1-.02-.33-.11-.64-.3-.93-.16-.29-.37-.53-.64-.7-.24-.22-.52-.37-.85-.45l-.66-.09c-.45,0-.87.12-1.26.34-.53.34-1.02.86-1.15,1.49h.03Z"/>
+  <line class="st52" x1="477.44" y1="178.15" x2="477.98" y2="286.67"/>
+  <path class="st69" d="M476.18,288.26c.46-.19.91-.37,1.4-.44l-.66.09c.18-.02.36-.02.54,0l-.66-.09c.13.02.25.05.37.09l-.6-.25c.13.05.24.12.35.2l-.51-.39c.11.09.2.18.28.29l-.39-.51c.06.09.12.18.16.28l-.25-.6c.03.08.05.16.07.24l-.09-.66c.01.08.01.16,0,.25l.09-.66c-.01.09-.03.16-.07.24l.25-.6c-.03.06-.06.12-.1.17l.39-.51c-.06.07-.12.13-.19.19l.51-.39c-.11.08-.23.15-.35.21l.6-.25c-.48.2-1.02.3-1.53.37l.66-.09c-.31.04-.62.06-.94.02l.66.09c-.17-.03-.33-.07-.49-.13l.6.25c-.13-.05-.24-.11-.35-.2l.51.39c-.09-.08-.18-.16-.25-.26l.39.51c-.07-.1-.13-.2-.18-.31l.25.6c-.05-.13-.09-.26-.11-.4l.09.66c-.01-.11-.01-.22,0-.34l-.09.66c.01-.07.03-.14.06-.21l-.25.6c.03-.07.06-.13.11-.19l-.39.51c.05-.06.1-.11.16-.16l-.51.39c.06-.04.12-.08.19-.11l-.6.25c.1-.04.2-.07.3-.08l-.66.09c.22-.03.43-.01.64.01l-.66-.09c.71.1,1.41.3,2.07.57l-.6-.25c.67.28,1.29.64,1.87,1.07.39.23.81.34,1.26.34s.87-.12,1.26-.34c.76-.45,1.24-1.28,1.24-2.16v-3.71c0-.64-.28-1.32-.73-1.77s-1.15-.76-1.77-.73c-1.36.06-2.5,1.1-2.5,2.5v3.71l3.76-2.16c-.56-.42-1.16-.76-1.79-1.04-.79-.34-1.57-.65-2.42-.8-.51-.09-1.04-.2-1.56-.17-.9.06-1.72.34-2.38.97-.93.89-1.16,2.19-.9,3.4.22.99.97,2,1.87,2.47.65.34,1.26.48,1.99.55.53.05,1.08-.05,1.61-.13.77-.12,1.63-.31,2.28-.74.53-.34,1-.77,1.29-1.34.4-.77.52-1.63.3-2.48-.34-1.31-1.44-2.38-2.73-2.75-1.19-.34-2.41-.07-3.52.39-.33.08-.61.23-.85.45-.27.18-.49.41-.64.7-.31.54-.45,1.33-.25,1.93s.57,1.19,1.15,1.49,1.32.5,1.93.25h0v.05Z"/>
+  <path class="st18" d="M474.51,285.75c-10.05,2.33-20.93,4.85-30.97,7.18"/>
+  <path class="st58" d="M443.55,292.93c-10.45,7.37-21.15,14.91-31.83,22.43"/>
+  <path class="st0" d="M443.6,295.57c1-1.67,2.72-2.88,4.62-3.28-.48-.67-4.2,2.57-4.62,3.28Z"/>
+  <path class="st26" d="M446.16,293.39c-1.79-.12-3.61.94-4.38,2.56,1.34-.99,2.69-1.98,4.03-2.97-.86-.95-2.68-.65-3.19.52"/>
+  <line class="st23" x1="481.02" y1="202.74" x2="501.42" y2="201.54"/>
+  <line class="st5" x1="501.42" y1="201.54" x2="501.42" y2="201.54"/>
+  <line class="st6" x1="497.81" y1="202.74" x2="498.34" y2="310.16"/>
+  <path class="st22" d="M497.81,304.15l-51.65,7.17,51.65-7.17Z"/>
+  <line class="st48" x1="448.22" y1="310.16" x2="401.75" y2="332.06"/>
+  <path class="st24" d="M498.66,222.47c-.96,27.65-1.31,55.32-1.03,82.98-.32-32.02-1.16-64.06-.85-96.08.38,4.39,2.04,8.67,1.88,13.1h0Z"/>
+  <path class="st42" d="M500.41,307.49c-3.31.28-6.65.17-9.93-.34-9.82-1.51-17.3.06-27.1,1.73-10.13,1.72-19.98,4.8-29.79,7.87"/>
+  <path class="st51" d="M414.09,313.28c-.59,2.33-2.97,3.64-3.94,5.77-1.05,2.29-1.12,5.88-1.74,8.37-.25.99-1.16,2.25-1.98,1.64-.38-.29-.42-.84-.42-1.32v-4.53c0-.8.01-1.64.42-2.33s1.35-1.13,2.03-.71"/>
+  <path class="st21" d="M412.12,315.7c-2.1,2.54-4.37,4.93-6.78,7.17,3.36-2.37,6.31-5.31,8.69-8.66-2.57-.26-4.46,2.26-5.78,4.49-1.82,3.05-3.63,6.1-5.45,9.15"/>
+  <line class="st28" x1="317.29" y1="204.24" x2="299.02" y2="201.54"/>
+  <line class="st47" x1="302.68" y1="204.24" x2="303.72" y2="310.16"/>
+  <line class="st27" x1="308.15" y1="305.45" x2="346" y2="310.16"/>
+  <path class="st16" d="M346,310.16c8.88,2.95,17.8,5.91,26.68,8.86"/>
+  <line class="st39" x1="372.11" y1="320.23" x2="395.59" y2="329.76"/>
+  <path class="st15" d="M307.37,305.52l7.68.5c-2.91-.01-5.81-.03-8.72-.04"/>
+  <path class="st17" d="M342.34,310.8l8.34.37"/>
+  <path class="st9" d="M385.66,326.25l4.94,1.52c-4.47.99-8.92-1.55-12.53-4.36s-7.14-6.12-11.61-7.05c8.76,5.32,17.75,10.25,26.94,14.79"/>
+  <line class="st20" x1="441.78" y1="155.72" x2="386.15" y2="190.07"/>
+  <line class="st46" x1="386.15" y1="192.76" x2="350.68" y2="257.41"/>
+  <line class="st8" x1="443.97" y1="161.98" x2="414.09" y2="216.76"/>
+  <line class="st43" x1="411.72" y1="219.89" x2="354.22" y2="257.2"/>
+  <line class="st50" x1="415.72" y1="213.77" x2="409.53" y2="219.89"/>
+  <line class="st49" x1="389.13" y1="189.37" x2="386.15" y2="192.76"/>
+  <path class="st37" d="M387.69,192.73l-1.5,1.24c-.11-1.01.27-2.07,1-2.78"/>
+  <circle class="st4" cx="400.12" cy="204.98" r="4.83"/>
+  <line class="st14" x1="406.02" y1="209.8" x2="414.09" y2="216.76"/>
+  <line class="st10" x1="387.69" y1="192.73" x2="396.76" y2="200.15"/>
+  <path class="st13" d="M437.76,157.48c2.79-.19,5.19,2.31,5.87,5.03s.07,5.57-.54,8.3c-6.37,6.38-9.85,11.53-11.42,20.4"/>
+  <polygon class="st30" points="402.28 142.42 457.82 197.96 490.44 109.8 402.28 142.42"/>
+  <polygon class="st38" points="356.15 240.24 368.81 251.59 339.56 271.47 356.15 240.24"/>
+  <path class="st57" d="M305.29,202.15h12.78"/>
+  <path class="st33" d="M316.24,204.52c1.13-.09,2.26-.05,3.38.12-.7.63-1.72.88-2.63.63.99,0,1.98,0,2.97,0-.89.08-1.8-.03-2.65-.32.21-.61-.09-1.27-.11-1.92s.54-1.44,1.12-1.15c0,1.3.01,2.61.02,3.91"/>
+  <path class="st64" d="M315.04,204.36l3.62,2.08c-.26-1.82-.53-3.64-.79-5.46-3.99-.24-7.95-1.11-11.68-2.54"/>
+  <path class="st45" d="M308.92,199.86c-2.98-.98-6.17-1.33-9.29-1.01-.49,1.01-.08,2.23.49,3.2s1.31,1.87,1.56,2.97"/>
+  <path class="st44" d="M493.89,308.41c-5.24-.4-10.52-.15-15.69.75,4.4-.25,8.82-.35,13.23-.32.51,0,1.22.41.9.8-4.85.43-9.73.6-14.6.5"/>
+  <path class="st3" d="M416.62,216.18c-.52.73-.65,1.66-.98,2.49-.62,1.57-2.04,2.8-3.68,3.2"/>
+  <path class="st62" d="M394.14,186.91c-2.08,1.9-3.7,4.3-4.71,6.93,1-1.62,2-3.24,3-4.86,0,1.43-.01,2.87-.02,4.3"/>
+  <g class="st74">
+    <text class="st29" transform="translate(248 438.97)"><tspan x="0" y="0">ГОСГИД</tspan></text>
+  </g>
+  <path class="st73" d="M302.77,308.75c1.88,1.08,4.16,1.12,6.33,1.14,5.07.04,8.59-1.24,13.66-1.2-5.49-.22-10.97-.63-16.42-1.24"/>
+  <path class="st25" d="M305.94,308.7c11.98.47,23.82,2.19,35.45,5.05"/>
+  <path class="st65" d="M494.9,202.93c.81,2.55,1.08,5.28.8,7.94,0-1.58.01-3.16.02-4.75v5.24l.02-6.15-.43,5.37c.01-2.31.02-4.62.04-6.93-.38,2.52-.52,5.07-.4,7.62"/>
+  <path class="st67" d="M362.34,244.28c1.6-.7,3.71.2,4.31,1.85-.93-.13-1.87-.27-2.8-.4"/>
+  <path class="st12" d="M387.88,316.55c.03,1.55,1.94,2.18,3.3,2.94,1.64.92,2.81,2.57,4.54,3.32,1.57.68,3.51.57,4.79,1.7"/>
+  <path class="st1" d="M390.79,330.66c3.35,1.26,5.66,5.1,9.24,5.16"/>
+  <path class="st61" d="M410.12,328.41c-4.1,2.92-8.2,5.85-12.29,8.77"/>
+  <line class="st31" x1="478.11" y1="185.06" x2="470.68" y2="187.8"/>
+  <line class="st7" x1="476.84" y1="181.81" x2="471.07" y2="187.8"/>
+  <path class="st36" d="M472.2,186.83c-.14.21-.05.49,0,.74s0,.59-.25.64"/>
+  <path class="st55" d="M473.58,182.86c-.43,1.11-.95,2.18-1.56,3.2-.49.82-1.04,1.62-1.32,2.54"/>
+  <polygon class="st66" points="404.48 240.17 398.19 246.44 403.97 249.04 404.48 240.17"/>
+  <path class="st60" d="M402.29,246.89l-.78,13.21c1.05-3.72,1.61-7.58,1.66-11.45.25,0,.36.31.4.56.43,2.6.43,5.27.01,7.86"/>
+  <path class="st32" d="M401.88,243.1c-1.47.7-1.52,3.06-3.02,3.68.62-1.42,1.62-2.67,2.87-3.58"/>
+  <path class="st59" d="M403.57,248.45l-.1,30.33"/>
+  <line class="st56" x1="403.16" y1="248.65" x2="402.69" y2="316.36"/>
+  <path class="st54" d="M448.22,292.3c-4.26.42-8.02,3.07-11.59,5.66-10.33,7.46-20.65,14.93-30.98,22.39"/>
+  <path class="st40" d="M398.53,325.43c14.53-10.52,30.3-21.93,44.84-32.46"/>
+  <path class="st19" d="M438.44,296.79c11.01-3.2,22.95-6.67,33.96-9.88"/>
+  <path class="st2" d="M355.92,294.88c15.56,8.94,32.43,18.63,48,27.57"/>
+  <path class="st35" d="M368.38,301.19c-13.71-5.63-28.59-11.74-42.31-17.37"/>
+  <path class="st72" d="M429.94,186.56c-.19.5-.38,1-.58,1.5-.04.11-.36.92-.13.33-.07.19-.16.37-.24.55-.42.95-.87,1.88-1.34,2.81-.94,1.81-1.99,3.57-3.13,5.26-.74,1.09-.24,2.82.9,3.42,1.26.67,2.64.26,3.42-.9,2.45-3.62,4.41-7.54,5.93-11.64.45-1.23-.51-2.79-1.75-3.08-1.42-.32-2.59.43-3.08,1.75h0Z"/>
+  <path class="st68" d="M433.11,184.48l-7.34,12.14c-2.1,3.47-3.98,7.41-7.19,10.02-1.05.85-.88,2.65,0,3.54,1.04,1.04,2.48.85,3.54,0,3.42-2.77,5.5-6.94,7.74-10.64l7.57-12.53c1.67-2.76-2.65-5.28-4.32-2.52h0Z"/>
+</svg>
